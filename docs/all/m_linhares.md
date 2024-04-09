@@ -1,0 +1,36 @@
+---
+title: "Muiñeira de Liñares"
+ritmo: "Muiñeira"
+origen: "Liñares (Avión)"
+---
+
+>**Retrouso**: <br>AIRES DA HABANA, AIRES DO QUERERE <br>
+AIRES DA HABANA QUE ME VEÑEN VERE <br>
+QUE ME VEÑEN VERE, VÉÑENME BUSCARE <br>
+AIRES DA HABANA QUÉRENME LEVARE
+
+OS MOCIÑOS DE AGHORA <br>
+TODOS TEÑEN COR DO LEITE <br>
+COMEN O CALDO SEN UNTO <br>
+E AS SARDIÑAS SEN ACEITE <br>
+
+> **Retrouso**
+
+POLA TÚA PORTA PASA <br>
+UN REGHEIRO D’AUGHA FRÍA <br>
+PARA DARLLE DE BEBERE <br>
+OS AMORES DALGHÚN DÍA <br>
+
+> **Retrouso**
+
+HOXE AQUÍ MAÑÁ ALÁ <br>
+PASADO MAÑÁ NA FEIRA <br>
+QUEN A MIN M’HA DE PRIVARE <br>
+DE FALAR CON QUEN EU QUEIRA <br>
+
+> **Retrouso**
+
+ESE DA GHORRA PATELA <br>
+ESE DA GHORRA PATELA <br>
+PARÉS QUE LLA FIXO O DEMO <br>
+DO COIRO DUNHA CADELA <br>
