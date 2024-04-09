@@ -1,0 +1,29 @@
+site_name: Foliada cheatsheet
+nav:
+  - Inicio: index.md
+  - Maneos:
+      - Intro: maneo/index.md
+      - Silván: maneo/letras/silvan.md
+  - Muinheiras:
+      - Intro: muinheira/index.md
+      - Maronda: muinheira/letras/maronda.md
+  - Xotas:
+      - Intro: xota/index.md
+      - Ferrinhas: xota/letras/ferrinhas.md
+      - Linhares: xota/letras/linhares.md
+  - Agarrados:
+      - Intro: agarrados/index.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'green'
+    accent: 'orange'
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'
+  font:
+    text: 'Roboto'
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/moronbandin
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/moronbandin
