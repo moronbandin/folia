@@ -14,7 +14,7 @@ Viva el trueno viva el trueno<br>viva la gente tronera<br>de los hijos de mi pad
 
 Iba decindo unha nena<br>no coche de Trabadense<br>para ser bon paraghueiro<br>hai que nacer en Ourense.
 
-Se canto me canto chámanme tola<br>se choro, desesperada<br>se me ven falar contigho<br>dicen que vou namorada.
+Se canto canto chámanme tola<br>se choro, desesperada<br>se me ven falar contigho<br>dicen que vou namorada.
 
 Si quieres que te lo diga<br>cantando te lo direi<br>de novo tiven amores<br>de vello los olvidé.
 

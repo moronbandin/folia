@@ -14,4 +14,9 @@ Este pandeiro que toco, <br> este que levo na mau-e<br> era da miña cuñada<br>
 
 Se algún día namoreime<br> daquel que saíu mirando<br> hoxe sigo namorada<br> ao mirarte ¿merdurando?
 
-Adiós os compañeiros<br> adiós os meus irmau-es<br> hoxe eiquí xa rematamos<br> e mañá xa dios dirai-e.
+Adiós ás compañeiras<br> adiós os meus irmau-es<br> hoxe eiquí xa rematamos<br> e mañá xa dios dirai-e.
+
+Non chas quero, non chas quero<br>castañas do teu magosto,<br>non chas quero, non chas quero<br>que me saben a chamosco.
+
+Unha pera, dúas peras<br>non tiña maila pereira<br>unha será para o xastre<br>e outra para a costureira.
+
