@@ -19,7 +19,7 @@ Si quieres que yo te quiera<br> rodéate de romero<br> para quitarte las manchas
 
 Todito te lo consiento<br> menos faltarle a mi madre<br> que una madre no se encuentra<br> y a ti te encontré en la calle.
 
-Costureiriña bontia<br> onde perdiche o dedal?<br> NAqueles campiños verdes<br> na raia de Portugal.
+Costureiriña bonita<br> onde perdiche o dedal?<br> Naqueles campiños verdes<br> na raia de Portugal.
 
 Esta noite hei de ir ao baile<br> coa miña variña branca<br> e o que gaste de zapatos<br> heino de aforrar en mantas.
 
@@ -33,4 +33,4 @@ Todos los días de fiesta<br> vas a misa con tu madre<br> llevas el pelo extendi
 
 Pandareta, pandareta,<br> téñoche de reventar<br> na porta dos teus amores<br> non me quixeches tocar.
 
-Esta noche va a lloevere<br> que tiene pico la luna<br> quiera dios que llueva llueva<br> agua no caerá ninguna.
+Esta noche va a llovere<br> que tiene pico la luna<br> quiera dios que llueva llueva<br> agua no caerá ninguna.
