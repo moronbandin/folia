@@ -6,7 +6,7 @@ origen: "-"
 
 # Danza das pereiras
 
-O meu é pequeno,<br>
+O meu amor é pequeno,<br>
 pequeno coma un xaruto, <br>
 é capaz de namorar-e <br>
 a vintecinco nun menuto.<br>
