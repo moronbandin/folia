@@ -1,3 +1,41 @@
 # Foliada Cheat Sheet
 
-## [Letras](./pezas/cantos.md)
+- Pezas:
+  - Dansas:
+    - [Pereiras](pezas/dansas/pereiras.md)
+  - Valses:
+    - [Alumeame](pezas/valses/alumeame.md)
+  - Cantos:
+    - [Axudaime](pezas/cantos/axudaime.md)
+  - Muinheiras:
+    - [Esgos](pezas/muinheiras/esgos.md)
+    - [Golpes](pezas/muinheiras/golpes.md)
+    - [Lerole](pezas/muinheiras/lerole.md)
+    - [M Linhares](pezas/muinheiras/m_linhares.md)
+    - [Manolo](pezas/muinheiras/manolo.md)
+    - [Maronda](pezas/muinheiras/maronda.md)
+    - [Sansalvador](pezas/muinheiras/sansalvador.md)
+    - [Zaragoza](pezas/muinheiras/zaragoza.md)
+  - Foliadas:
+    - [Route](pezas/foliadas/route.md)
+    - [Zanfoga](pezas/foliadas/zanfoga.md)
+  - Rumbas:
+    - [Montealegre](pezas/rumbas/montealegre.md)
+    - [Rumba](pezas/rumbas/rumba.md)
+  - Xotas:
+    - [Bazar](pezas/xotas/bazar.md)
+    - [Caroi](pezas/xotas/caroi.md)
+    - [Carolina](pezas/xotas/carolina.md)
+    - [Ferrinhas](pezas/xotas/ferrinhas.md)
+    - [Linhares](pezas/xotas/linhares.md)
+    - [Lira](pezas/xotas/lira.md)
+    - [Panaderas](pezas/xotas/panaderas.md)
+    - [Senhora](pezas/xotas/senhora.md)
+  - Maneos:
+    - [Abelenda](pezas/maneos/abelenda.md)
+    - [Agoraque](pezas/maneos/agoraque.md)
+    - [Cabaleiros](pezas/maneos/cabaleiros.md)
+    - [Caion](pezas/maneos/caion.md)
+    - [Imende](pezas/maneos/imende.md)
+    - [Rosinha](pezas/maneos/rosinha.md)
+    - [Silvan](pezas/maneos/silvan.md)
