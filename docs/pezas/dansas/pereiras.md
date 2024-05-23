@@ -9,7 +9,7 @@ origen: "-"
 O meu amor é pequeno,<br>
 pequeno coma un xaruto, <br>
 é capaz de namorar-e <br>
-a vintecinco nun menuto.<br>
+vintecinco nun menuto.<br>
 
 Ailalá ailalaralalala, <br>
 Ailalá ailalaralalalaralala laralalala.
@@ -29,7 +29,7 @@ Están a tremer co frio.
 Ailalá ailalaralalala...
 
 As mociñas que hai aghora <br>
-son dignas de has querer-e <br>
+son dignas de as querer-e <br>
 cando un mozo leva fame <br>
 logho lle dan de comer-e.
 
