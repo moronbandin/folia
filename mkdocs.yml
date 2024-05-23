@@ -1,44 +1,65 @@
 site_name: Foliada cheatsheet
 nav:
-  - Letras:
-      - Abelenda: 'all/abelenda.md'
-      - Axudaime: 'all/axudaime.md'
-      - Bazar: 'all/bazar.md'
-      - Maneo de Cabaleiros: 'all/cabaleiros.md'
-      - Muiñeira de Esgos: 'all/esgos.md'
-      - Xota de Corcubión: 'all/ferrinhas.md'
-      - Lerole: 'all/lerole.md'
-      - Xota de Liñares: 'all/linhares.md'
-      - Aluméame luíña: 'all/luinha.md'
-      - Muiñeira Maronda: 'all/maronda.md'
-      - Rumba de Montealegre: 'all/montealegre.md'
-      - Rumba de Monzo: 'all/rumba.md'
-      - Regueifa de San Salvador de Pedreiro: 'all/sansalvador.md'
-      - Maneo de Silván: 'all/silvan.md'
-      - Canto, muiñeira e xota de Zanfoga: 'all/zanfoga.md'
-      - Muiñeira de Veiga: all/zaragoza.md
-      - Muiñeira de Liñares: all/m_linhares.md
-
+- Home: index.md
+- Pezas:
+  - Dansas:
+    - Pereiras: pezas/dansas/pereiras.md
+  - Valses:
+    - Alumeame: pezas/valses/alumeame.md
+  - Cantos:
+    - Axudaime: pezas/cantos/axudaime.md
+  - Muinheiras:
+    - Esgos: pezas/muinheiras/esgos.md
+    - Golpes: pezas/muinheiras/golpes.md
+    - Lerole: pezas/muinheiras/lerole.md
+    - M Linhares: pezas/muinheiras/m_linhares.md
+    - Manolo: pezas/muinheiras/manolo.md
+    - Maronda: pezas/muinheiras/maronda.md
+    - Sansalvador: pezas/muinheiras/sansalvador.md
+    - Zaragoza: pezas/muinheiras/zaragoza.md
+  - Foliadas:
+    - Route: pezas/foliadas/route.md
+    - Zanfoga: pezas/foliadas/zanfoga.md
+  - Rumbas:
+    - Montealegre: pezas/rumbas/montealegre.md
+    - Rumba: pezas/rumbas/rumba.md
+  - Xotas:
+    - Bazar: pezas/xotas/bazar.md
+    - Caroi: pezas/xotas/caroi.md
+    - Carolina: pezas/xotas/carolina.md
+    - Ferrinhas: pezas/xotas/ferrinhas.md
+    - Linhares: pezas/xotas/linhares.md
+    - Lira: pezas/xotas/lira.md
+    - Panaderas: pezas/xotas/panaderas.md
+    - Senhora: pezas/xotas/senhora.md
+  - Maneos:
+    - Abelenda: pezas/maneos/abelenda.md
+    - Agoraque: pezas/maneos/agoraque.md
+    - Cabaleiros: pezas/maneos/cabaleiros.md
+    - Caion: pezas/maneos/caion.md
+    - Imende: pezas/maneos/imende.md
+    - Rosinha: pezas/maneos/rosinha.md
+    - Silvan: pezas/maneos/silvan.md
 theme:
-  name: 'material'
-  language: 'es'
+  name: material
+  language: gl
   features:
-    - navigation.instant
-    - navigation.tabs
-    - search.suggest
-    - search.highlight
-    - search.share  
+  - navigation.instant
+  - navigation.tabs
+  - search.suggest
+  - search.highlight
+  - search.share
   palette:
-    primary: 'green'
-    accent: 'orange'
-  logo: 'images/logo.png'
-  favicon: 'images/favicon.ico'
+    primary: green
+    accent: orange
+  logo: images/logo.png
+  favicon: images/favicon.ico
   font:
-    text: 'Roboto'
+    text: Roboto
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/moronbandin
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/moronbandin
+  - icon: fontawesome/brands/github
+    link: https://github.com/moronbandin
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/moronbandin
 plugins:
-  - search      
+- search
