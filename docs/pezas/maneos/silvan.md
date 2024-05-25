@@ -11,7 +11,7 @@ o pelo pola cintura<br>
 xa lle digho miña nai<br>
 eu marcho xa non son súa.<br>
 
->Na beira do río estoume penteando<br>
+> Na beira do río estoume penteando<br>
 e os pentes de ouro van relumbrando.
 
 Ven aquí que che eu direi<br>

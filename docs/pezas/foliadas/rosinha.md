@@ -4,6 +4,8 @@ ritmo: "Maneo e muiñeira"
 origen: "-"
 ---
 
+> Abaneado + muiñeira mixta
+
 # Rosiña
 
 Tú dices que no me quieres, ai, Rosiña<br>

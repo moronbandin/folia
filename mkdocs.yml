@@ -2,44 +2,47 @@ site_name: Foliada cheatsheet
 nav:
 - Home: index.md
 - Pezas:
-  - Dansas:
-    - Pereiras: pezas/dansas/pereiras.md
-  - Valses:
-    - Alumeame: pezas/valses/alumeame.md
   - Cantos:
     - Axudaime: pezas/cantos/axudaime.md
+    - Cando poño os bois: pezas/cantos/os_bois.md
   - Muinheiras:
-    - Esgos: pezas/muinheiras/esgos.md
-    - Golpes: pezas/muinheiras/golpes.md
-    - Lerole: pezas/muinheiras/lerole.md
-    - M Linhares: pezas/muinheiras/m_linhares.md
-    - Manolo: pezas/muinheiras/manolo.md
-    - Maronda: pezas/muinheiras/maronda.md
-    - Sansalvador: pezas/muinheiras/sansalvador.md
-    - Zaragoza: pezas/muinheiras/zaragoza.md
+    - Danza das pereiras: pezas/muinheiras/danza_das_pereiras.md
+    - Muiñeira da Pereira: pezas/muinheiras/pereira_(lero).md
+    - Muiñeira da Ribeiriña: pezas/muinheiras/ribeirinha.md
+    - Muiñeira de Bembibre: pezas/muinheiras/bembibre.md
+    - Muiñeira de Esgos: pezas/muinheiras/esgos.md
+    - Muiñeira de golpes: pezas/muinheiras/golpes.md
+    - Muiñeira de Liñares: pezas/muinheiras/linhares.md
+    - Muiñeira de Veiga: pezas/muinheiras/zaragoza.md
+    - Oye, Manolo: pezas/muinheiras/manolo.md
+    - Regueifa de San Salvador de Pedreiro: pezas/muinheiras/san_salvador.md
   - Foliadas:
-    - Route: pezas/foliadas/route.md
-    - Zanfoga: pezas/foliadas/zanfoga.md
-  - Rumbas:
-    - Montealegre: pezas/rumbas/montealegre.md
-    - Rumba: pezas/rumbas/rumba.md
-  - Xotas:
-    - Bazar: pezas/xotas/bazar.md
-    - Caroi: pezas/xotas/caroi.md
-    - Carolina: pezas/xotas/carolina.md
-    - Ferrinhas: pezas/xotas/ferrinhas.md
-    - Linhares: pezas/xotas/linhares.md
-    - Lira: pezas/xotas/lira.md
-    - Panaderas: pezas/xotas/panaderas.md
-    - Senhora: pezas/xotas/senhora.md
+    - Canto, muiñeira e xota de Zanfoga: pezas/foliadas/zanfoga.md
+    - Rosiña: pezas/foliadas/rosinha.md
+    - Route (Portuguesinha): pezas/foliadas/route.md
   - Maneos:
-    - Abelenda: pezas/maneos/abelenda.md
-    - Agoraque: pezas/maneos/agoraque.md
-    - Cabaleiros: pezas/maneos/cabaleiros.md
-    - Caion: pezas/maneos/caion.md
-    - Imende: pezas/maneos/imende.md
-    - Rosinha: pezas/maneos/rosinha.md
-    - Silvan: pezas/maneos/silvan.md
+    - Agora que vou entrando: pezas/maneos/agoraque.md
+    - Maneo de Abelenda: pezas/maneos/abelenda.md
+    - Maneo de Cabaleiros: pezas/maneos/cabaleiros.md
+    - Maneo de Imende: pezas/maneos/imende.md
+    - Maneo de Silván: pezas/maneos/silvan.md
+    - Rececinde: pezas/maneos/rececinde.md
+    - Xota de Bazar: pezas/maneos/bazar.md
+  - Agarrados:
+    - Aluméame luíña: pezas/agarrados/alumeame.md
+    - Pasodobre de Xoane: pezas/agarrados/xoane.md
+    - Rumba de Montealegre: pezas/agarrados/montealegre.md
+    - Rumba de Monzo: pezas/agarrados/monzo.md
+  - Xotas:
+    - Las panaderas: pezas/xotas/panaderas.md
+    - Senhora do Almortão: pezas/xotas/senhora.md
+    - Xota da Carolina: pezas/xotas/carolina.md
+    - Xota de Barro: pezas/xotas/barro.md
+    - Xota de Bazar: pezas/xotas/bazar.md
+    - Xota de Caroi: pezas/xotas/caroi.md
+    - Xota de Corcubión: pezas/xotas/ferrinhas.md
+    - Xota de Lira: pezas/xotas/lira.md
+    - Xota de Liñares: pezas/xotas/linhares.md
 theme:
   name: material
   language: gl
@@ -50,7 +53,7 @@ theme:
   - search.highlight
   - search.share
   palette:
-    primary: green
+    primary: blue-grey
     accent: orange
   logo: images/logo.png
   favicon: images/favicon.ico

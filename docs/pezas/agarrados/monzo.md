@@ -6,6 +6,8 @@ origen: "Monzo (Trazo)"
 
 # Rumba (Monzo, Trazo)
 
+Ai...
+
 Mándanme tocá-la rumba<br>e eu a rumba non a sei<br>para quen entrou no baile<br>eu a rumba tocarei.
 
 Paxariño ghorrione<br>vai cantar ond'eu nacín<br>preghuntall'aos meus amores<br>como se valen sen min.
