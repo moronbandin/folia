@@ -29,5 +29,22 @@ ailala lalala ai la la lá (x2)
 *(por amar unha veleta)*<br>
 Olvidáchesme a min<br>
 por amar unha veleta<br>
-foi como quen trocou<br>
+foi com'aquel que trocou<br>
 pano fino por vaeta
+
+---
+
+Bailador baila ligero<br>
+bailador baila ligero<br>
+baila querido del alma<br>
+baila que por ti me muero
+
+> Túa nai, túa nai ten a sona<br>
+de borracha, pelexa e ladroa<br>
+e teu pai e teu pai tamén ten<br>
+de borracho e pelexo tamén
+
+> Vai bailar, vai bailar vai aghora<br>
+vai bailar coa túa siñora<br>
+vai bailar, vai bailar, Manuele<br>
+vai bailar coa túa mullere
