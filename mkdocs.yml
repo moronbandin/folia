@@ -13,7 +13,9 @@ nav:
     - Muiñeira de Esgos: pezas/muinheiras/esgos.md
     - Muiñeira de golpes: pezas/muinheiras/golpes.md
     - Muiñeira de Liñares: pezas/muinheiras/linhares.md
+    - Muiñeira de Seaia: pezas/muinheiras/seaia.md
     - Muiñeira de Veiga: pezas/muinheiras/zaragoza.md
+    - Muiñeira vella de Seaia: pezas/muinheiras/seaiaII.md
     - Oye, Manolo: pezas/muinheiras/manolo.md
     - Regueifa de San Salvador de Pedreiro: pezas/muinheiras/san_salvador.md
   - Foliadas:
@@ -30,10 +32,12 @@ nav:
     - Xota de Bazar: pezas/maneos/bazar.md
   - Agarrados:
     - Aluméame luíña: pezas/agarrados/alumeame.md
+    - Danza de Lampai: pezas/agarrados/lampai.md
     - Pasodobre de Xoane: pezas/agarrados/xoane.md
     - Rumba de Montealegre: pezas/agarrados/montealegre.md
     - Rumba de Monzo: pezas/agarrados/monzo.md
   - Xotas:
+    - Ai Rianxo, Rianxo: pezas/xotas/rianxo.md
     - Las panaderas: pezas/xotas/panaderas.md
     - Senhora do Almortão: pezas/xotas/senhora.md
     - Xota da Carolina: pezas/xotas/carolina.md
@@ -43,6 +47,8 @@ nav:
     - Xota de Corcubión: pezas/xotas/ferrinhas.md
     - Xota de Lira: pezas/xotas/lira.md
     - Xota de Liñares: pezas/xotas/linhares.md
+    - Xota de Liñares II: pezas/xotas/linharesII.md
+    - Xota de Seaia: pezas/xotas/xotaseaia.md
 theme:
   name: material
   language: gl
