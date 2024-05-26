@@ -1,6 +1,8 @@
 # Foliadas
 
-- [Canto, muiñeira e xota de Zanfoga](/pezas/foliadas/zanfoga/)
-- [Rosiña](/pezas/foliadas/rosinha/)
-- [Route (Portuguesinha)](/pezas/foliadas/route/)
+- Y aquí una lista alfabética de todas las piezas
+
+- [Canto, muiñeira e xota de Zanfoga](pezas/zanfoga.md)
+- [Rosiña](pezas/rosinha.md)
+- [Route (Portuguesinha)](pezas/route.md)
 

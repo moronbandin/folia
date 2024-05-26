@@ -1,9 +1,11 @@
 # Agarrados
 
-- [Aluméame luíña](/pezas/agarrados/alumeame/)
-- [Danza de Lampai](/pezas/agarrados/lampai/)
-- [Pasodobre de Xoane](/pezas/agarrados/xoane/)
-- [Rumba de Montealegre](/pezas/agarrados/montealegre/)
-- [Rumba de Monzo](/pezas/agarrados/monzo/)
-- [Valse, Seixedos](/pezas/agarrados/seixedos/)
+- Y aquí una lista alfabética de todas las piezas
+
+- [Aluméame luíña](pezas/alumeame.md)
+- [Danza de Lampai](pezas/lampai.md)
+- [Pasodobre de Xoane](pezas/xoane.md)
+- [Rumba de Montealegre](pezas/montealegre.md)
+- [Rumba de Monzo](pezas/monzo.md)
+- [Valse, Seixedos](pezas/seixedos.md)
 

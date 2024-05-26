@@ -1,6 +1,8 @@
 # Cantos
 
-- [Alá arriba hai tiros](/pezas/cantos/tiros/)
-- [Axudaime](/pezas/cantos/axudaime/)
-- [Cando poño os bois](/pezas/cantos/os_bois/)
+- Y aquí una lista alfabética de todas las piezas
+
+- [Alá arriba hai tiros](pezas/tiros.md)
+- [Axudaime](pezas/axudaime.md)
+- [Cando poño os bois](pezas/os_bois.md)
 
