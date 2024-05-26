@@ -4,56 +4,57 @@ nav:
 - Pezas:
   - Cantos:
     - Axudaime: pezas/cantos/pezas/axudaime.md
-    - Os Bois: pezas/cantos/pezas/os_bois.md
-    - Tiros: pezas/cantos/pezas/tiros.md
+    - Cando poño os bois: pezas/cantos/pezas/os_bois.md
+    - Alá arriba hai tiros: pezas/cantos/pezas/tiros.md
   - Muinheiras:
-    - Bembibre: pezas/muinheiras/pezas/bembibre.md
-    - Danza Das Pereiras: pezas/muinheiras/pezas/danza_das_pereiras.md
-    - Esgos: pezas/muinheiras/pezas/esgos.md
-    - Golpes: pezas/muinheiras/pezas/golpes.md
-    - Linhares: pezas/muinheiras/pezas/linhares.md
-    - Manolo: pezas/muinheiras/pezas/manolo.md
-    - Pereira (Lero): pezas/muinheiras/pezas/pereira_(lero).md
-    - Ribeirinha: pezas/muinheiras/pezas/ribeirinha.md
-    - San Salvador: pezas/muinheiras/pezas/san_salvador.md
-    - Seaia: pezas/muinheiras/pezas/seaia.md
-    - Seaiaii: pezas/muinheiras/pezas/seaiaII.md
-    - Zaragoza: pezas/muinheiras/pezas/zaragoza.md
+    - Muiñeira de Bembibre: pezas/muinheiras/pezas/bembibre.md
+    - Danza das pereiras: pezas/muinheiras/pezas/danza_das_pereiras.md
+    - Muiñeira de Esgos: pezas/muinheiras/pezas/esgos.md
+    - Muiñeira de golpes: pezas/muinheiras/pezas/golpes.md
+    - Muiñeira de Liñares: pezas/muinheiras/pezas/linhares.md
+    - Oye, Manolo: pezas/muinheiras/pezas/manolo.md
+    - Muiñeira da Pereira: pezas/muinheiras/pezas/pereira_(lero).md
+    - Muiñeira da Ribeiriña: pezas/muinheiras/pezas/ribeirinha.md
+    - Regueifa de San Salvador de Pedreiro: pezas/muinheiras/pezas/san_salvador.md
+    - Muiñeira de Seaia: pezas/muinheiras/pezas/seaia.md
+    - Muiñeira vella de Seaia: pezas/muinheiras/pezas/seaiaII.md
+    - Muiñeira de Veiga: pezas/muinheiras/pezas/zaragoza.md
   - Foliadas:
-    - Rosinha: pezas/foliadas/pezas/rosinha.md
-    - Route: pezas/foliadas/pezas/route.md
-    - Zanfoga: pezas/foliadas/pezas/zanfoga.md
+    - Rosiña: pezas/foliadas/pezas/rosinha.md
+    - Route (Portuguesinha): pezas/foliadas/pezas/route.md
+    - Canto, muiñeira e xota de Zanfoga: pezas/foliadas/pezas/zanfoga.md
   - Maneos:
-    - Abelenda: pezas/maneos/pezas/abelenda.md
-    - Agoraque: pezas/maneos/pezas/agoraque.md
-    - Bazar: pezas/maneos/pezas/bazar.md
-    - Cabaleiros: pezas/maneos/pezas/cabaleiros.md
-    - Imende: pezas/maneos/pezas/imende.md
-    - Rececinde: pezas/maneos/pezas/rececinde.md
-    - Silvan: pezas/maneos/pezas/silvan.md
+    - Maneo de Abelenda: pezas/maneos/pezas/abelenda.md
+    - Agora que vou entrando: pezas/maneos/pezas/agoraque.md
+    - Xota de Bazar: pezas/maneos/pezas/bazar.md
+    - Maneo de Cabaleiros: pezas/maneos/pezas/cabaleiros.md
+    - Maneo de Imende: pezas/maneos/pezas/imende.md
+    - ? ''
+      : pezas/maneos/pezas/rececinde.md
+    - Maneo de Silván: pezas/maneos/pezas/silvan.md
   - Agarrados:
-    - Alumeame: pezas/agarrados/pezas/alumeame.md
-    - Lampai: pezas/agarrados/pezas/lampai.md
-    - Montealegre: pezas/agarrados/pezas/montealegre.md
-    - Monzo: pezas/agarrados/pezas/monzo.md
-    - Seixedos: pezas/agarrados/pezas/seixedos.md
-    - Xoane: pezas/agarrados/pezas/xoane.md
+    - Aluméame luíña: pezas/agarrados/pezas/alumeame.md
+    - Danza de Lampai: pezas/agarrados/pezas/lampai.md
+    - Rumba de Montealegre: pezas/agarrados/pezas/montealegre.md
+    - Rumba de Monzo: pezas/agarrados/pezas/monzo.md
+    - Valse, Seixedos: pezas/agarrados/pezas/seixedos.md
+    - Pasodobre de Xoane: pezas/agarrados/pezas/xoane.md
   - Xotas:
-    - Barro: pezas/xotas/pezas/barro.md
-    - Bazar: pezas/xotas/pezas/bazar.md
-    - Caroi: pezas/xotas/pezas/caroi.md
-    - Carolina: pezas/xotas/pezas/carolina.md
-    - Ferrinhas: pezas/xotas/pezas/ferrinhas.md
-    - Linhares: pezas/xotas/pezas/linhares.md
-    - Linharesii: pezas/xotas/pezas/linharesII.md
-    - Lira: pezas/xotas/pezas/lira.md
-    - Luna: pezas/xotas/pezas/luna.md
-    - Moscoso: pezas/xotas/pezas/moscoso.md
-    - Moscosoii: pezas/xotas/pezas/moscosoii.md
-    - Panaderas: pezas/xotas/pezas/panaderas.md
-    - Rianxo: pezas/xotas/pezas/rianxo.md
-    - Senhora: pezas/xotas/pezas/senhora.md
-    - Xotaseaia: pezas/xotas/pezas/xotaseaia.md
+    - Xota de Barro: pezas/xotas/pezas/barro.md
+    - Xota de Bazar: pezas/xotas/pezas/bazar.md
+    - Xota de Caroi: pezas/xotas/pezas/caroi.md
+    - Xota da Carolina: pezas/xotas/pezas/carolina.md
+    - Xota de Corcubión: pezas/xotas/pezas/ferrinhas.md
+    - Xota de Liñares: pezas/xotas/pezas/linhares.md
+    - Xota de Liñares II: pezas/xotas/pezas/linharesII.md
+    - Xota de Lira: pezas/xotas/pezas/lira.md
+    - Xota de Liñares III: pezas/xotas/pezas/luna.md
+    - Xota de Moscoso I: pezas/xotas/pezas/moscoso.md
+    - Xota de Moscoso II: pezas/xotas/pezas/moscosoii.md
+    - Las panaderas: pezas/xotas/pezas/panaderas.md
+    - Ai Rianxo, Rianxo: pezas/xotas/pezas/rianxo.md
+    - Senhora do Almortão: pezas/xotas/pezas/senhora.md
+    - Xota de Seaia: pezas/xotas/pezas/xotaseaia.md
 theme:
   name: material
   language: gl

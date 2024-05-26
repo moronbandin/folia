@@ -1,6 +1,6 @@
 # Foliadas
 
-- [Rosinha](pezas/rosinha.md)
-- [Route](pezas/route.md)
-- [Zanfoga](pezas/zanfoga.md)
+- [Rosiña](pezas/rosinha.md)
+- [Route (Portuguesinha)](pezas/route.md)
+- [Canto, muiñeira e xota de Zanfoga](pezas/zanfoga.md)
 

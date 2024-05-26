@@ -1,9 +1,9 @@
 # Agarrados
 
-- [Alumeame](pezas/alumeame.md)
-- [Lampai](pezas/lampai.md)
-- [Montealegre](pezas/montealegre.md)
-- [Monzo](pezas/monzo.md)
-- [Seixedos](pezas/seixedos.md)
-- [Xoane](pezas/xoane.md)
+- [Aluméame luíña](pezas/alumeame.md)
+- [Danza de Lampai](pezas/lampai.md)
+- [Rumba de Montealegre](pezas/montealegre.md)
+- [Rumba de Monzo](pezas/monzo.md)
+- [Valse, Seixedos](pezas/seixedos.md)
+- [Pasodobre de Xoane](pezas/xoane.md)
 

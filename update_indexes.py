@@ -1,6 +1,26 @@
 import os
 import yaml
 
+# Función para extraer el encabezado YAML de un archivo Markdown
+def extract_yaml_header(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+    
+    yaml_lines = []
+    in_yaml = False
+    for line in lines:
+        if line.strip() == '---':
+            if in_yaml:
+                break
+            else:
+                in_yaml = True
+        elif in_yaml:
+            yaml_lines.append(line)
+    
+    if yaml_lines:
+        return yaml.safe_load(''.join(yaml_lines))
+    return {}
+
 # Función para generar el contenido de los subíndices
 def generate_sub_index(category, base_path):
     content = f"# {category.capitalize()}\n\n"
@@ -8,7 +28,9 @@ def generate_sub_index(category, base_path):
     files = sorted(os.listdir(base_path))
     for file in files:
         if file.endswith('.md'):
-            title = os.path.splitext(file)[0].replace('_', ' ').title()
+            file_path = os.path.join(base_path, file)
+            header = extract_yaml_header(file_path)
+            title = header.get('title', os.path.splitext(file)[0].replace('_', ' ').title())
             link = f"pezas/{file}"
             content += f"- [{title}]({link})\n"
 

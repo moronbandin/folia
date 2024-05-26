@@ -4,5 +4,15 @@ document.addEventListener("DOMContentLoaded", function() {
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    // Add markers or other map features here
+    // Añadir marcadores desde los datos
+    var markers = [
+        // Agrega aquí tus marcadores con coordenadas y enlaces
+        {"coords": [42.858, -8.544], "title": "Muiñeira de Bembibre", "url": "/pezas/muinheiras/pezas/bembibre.md"},
+        // Más marcadores...
+    ];
+
+    markers.forEach(function(marker) {
+        L.marker(marker.coords).addTo(map)
+            .bindPopup(`<a href="${marker.url}">${marker.title}</a>`);
+    });
 });
