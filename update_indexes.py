@@ -4,7 +4,6 @@ import yaml
 # Función para generar el contenido de los subíndices
 def generate_sub_index(category, base_path):
     content = f"# {category.capitalize()}\n\n"
-    content += "- Y aquí una lista alfabética de todas las piezas\n\n"
 
     files = sorted(os.listdir(base_path))
     for file in files:

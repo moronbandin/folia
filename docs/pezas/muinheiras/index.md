@@ -1,17 +1,15 @@
 # Muinheiras
 
-- Y aquí una lista alfabética de todas las piezas
-
-- [Danza das pereiras](pezas/danza_das_pereiras.md)
-- [Muiñeira da Pereira](pezas/pereira_(lero).md)
-- [Muiñeira da Ribeiriña](pezas/ribeirinha.md)
-- [Muiñeira de Bembibre](pezas/bembibre.md)
-- [Muiñeira de Esgos](pezas/esgos.md)
-- [Muiñeira de Liñares](pezas/linhares.md)
-- [Muiñeira de Seaia](pezas/seaia.md)
-- [Muiñeira de Veiga](pezas/zaragoza.md)
-- [Muiñeira de golpes](pezas/golpes.md)
-- [Muiñeira vella de Seaia](pezas/seaiaII.md)
-- [Oye, Manolo](pezas/manolo.md)
-- [Regueifa de San Salvador de Pedreiro](pezas/san_salvador.md)
+- [Bembibre](pezas/bembibre.md)
+- [Danza Das Pereiras](pezas/danza_das_pereiras.md)
+- [Esgos](pezas/esgos.md)
+- [Golpes](pezas/golpes.md)
+- [Linhares](pezas/linhares.md)
+- [Manolo](pezas/manolo.md)
+- [Pereira (Lero)](pezas/pereira_(lero).md)
+- [Ribeirinha](pezas/ribeirinha.md)
+- [San Salvador](pezas/san_salvador.md)
+- [Seaia](pezas/seaia.md)
+- [Seaiaii](pezas/seaiaII.md)
+- [Zaragoza](pezas/zaragoza.md)
 
