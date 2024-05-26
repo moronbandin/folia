@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Rececinde"
 ritmo: "Maneo"
 origen: "Rececinde, San Xusto (Coristanco)"
 ---
