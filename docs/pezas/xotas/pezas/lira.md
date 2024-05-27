@@ -4,6 +4,8 @@ ritmo: "Xota"
 origen: "Lira"
 ---
 
+> Xota de cinco
+
 # Xota de Lira
 
 Esta que teño ao meu lado<br>

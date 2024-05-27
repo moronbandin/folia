@@ -25,14 +25,22 @@ def extract_yaml_header(file_path):
 def generate_sub_index(category, base_path):
     content = f"# {category.capitalize()}\n\n"
 
+    # Crear una lista de tuplas (title, file) para ordenar por title
+    files_with_titles = []
     files = sorted(os.listdir(base_path))
     for file in files:
         if file.endswith('.md'):
             file_path = os.path.join(base_path, file)
             header = extract_yaml_header(file_path)
             title = header.get('title', os.path.splitext(file)[0].replace('_', ' ').title())
-            link = f"pezas/{file}"
-            content += f"- [{title}]({link})\n"
+            files_with_titles.append((title, file))
+    
+    # Ordenar la lista de tuplas por el título
+    files_with_titles.sort(key=lambda x: x[0].lower())
+
+    for title, file in files_with_titles:
+        link = f"pezas/{file}"
+        content += f"- [{title}]({link})\n"
 
     content += "\n"
     return content

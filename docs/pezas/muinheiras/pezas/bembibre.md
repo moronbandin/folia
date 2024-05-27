@@ -4,7 +4,7 @@ ritmo: "Muiñeira"
 origen: "-"
 ---
 
-# Muiñeira Bembibre
+# Muiñeira de Bembibre
 
 Se pensas que non te quero<br>
 abre o meu corazón<br>

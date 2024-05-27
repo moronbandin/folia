@@ -28,6 +28,7 @@ def extract_yaml_header(file_path):
 def generate_nav_entry(category, base_path):
     nav_entry = {category.capitalize(): []}
 
+    files_with_titles = []
     files = sorted(os.listdir(base_path))
     for file in files:
         if file.endswith('.md'):
@@ -35,7 +36,13 @@ def generate_nav_entry(category, base_path):
             header = extract_yaml_header(file_path)
             title = header.get('title', os.path.splitext(file)[0].replace('_', ' ').title())
             path = file_path.replace('docs/', '')
-            nav_entry[category.capitalize()].append({title: path})
+            files_with_titles.append((title, path))
+    
+    # Ordenar alfabéticamente por título
+    files_with_titles.sort(key=lambda x: x[0].lower())
+
+    for title, path in files_with_titles:
+        nav_entry[category.capitalize()].append({title: path})
 
     return nav_entry
 

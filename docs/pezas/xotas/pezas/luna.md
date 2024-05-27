@@ -4,6 +4,8 @@ ritmo: "Xota"
 origen: "Liñares, Avión"
 ---
 
+> Xota simple + toques de Liñares
+
 # Xota de Liñares
 
 De lo más alto del cielo<br>

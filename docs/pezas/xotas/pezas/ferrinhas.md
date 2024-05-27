@@ -4,6 +4,8 @@ ritmo: "Xota"
 origen: "Corcubión"
 ---
 
+> Xota simple
+
 # Xota de Corcubión
 
 O pueblo de Corcubión<br>
@@ -12,7 +14,8 @@ porque de patrón tenemos<br>
 o evangelista San Marcos
 
 > **Retrouso**:<br>
-    Xa non ten ferriñas, ferriñas non ten,<br>xa non ten ferriñas pero toca ben
+    Xa non ten ferriñas, ferriñas non ten,<br>
+    xa non ten ferriñas pero toca ben
 
 Heiche de dar para un manto<br>
 heiche de dar para un velo<br>
@@ -27,8 +30,3 @@ vainos lavar queridiña<br>
 onde a troita lava os seus.<br>
 
 > **Retrouso**
-
-
-
-
-

@@ -4,6 +4,8 @@ ritmo: "Xota"
 origen: "Almortão"
 ---
 
+> Abaneado (1 petado + 2 ao ar) + xota simple.
+
 # Senhora do Almortão
 
 **Senhora, Senhora do Almortão**<br>
@@ -19,6 +21,8 @@ Não queirais ser castelhana.
 Senhora do Almortão,<br>
 Senhora do Almortão<br>
 A vossa capela cheira.
+
+---
 
 Cheira a cravos // **Cheira a cravos** <br>
 Cheira a cravos, cheira a rosas <br>

@@ -6,11 +6,18 @@ origen: "Bazar (Santa Comba)"
 
 # Xota (Bazar, Santa Comba)
 
-Cásate comigho neno<br> se queres ghana-lo ceu-e<br> aghora non hai inferno, lará<br> o demo mateino eu-e.
+Cásate comigho neno<br> 
+se queres ghana-lo ceu-e<br> 
+aghora non hai inferno, lará<br> 
+o demo mateino eu-e.
 
-*Cásate Manolo, ramo de loureiro<br> cásate comigo, non quedes solteiro*
+> *Cásate Manolo, ramo de loureiro<br> 
+cásate comigo, non quedes solteiro*
 
-Hai muito que non cantei-e,<br> hai muito que non cantei-e,<br> vou ve-la miña gharghanta, lará,<br> se está como a deixei-e.
+Hai muito que non cantei-e,<br> 
+hai muito que non cantei-e,<br> 
+vou ve-la miña gharghanta, lará,<br> 
+se está como a deixei-e.
 
 > No como ni bebo ni puedo llorar<br> al ver qu'os teus ollos me van a olvidar.
 
