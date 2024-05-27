@@ -1,10 +1,10 @@
 # Maneos
 
-- [Agora que vou entrando](/pezas/maneos/agoraque/)
-- [Maneo de Abelenda](/pezas/maneos/abelenda/)
-- [Maneo de Cabaleiros](/pezas/maneos/cabaleiros/)
-- [Maneo de Imende](/pezas/maneos/imende/)
-- [Maneo de Silván](/pezas/maneos/silvan/)
-- [Rececinde](/pezas/maneos/rececinde/)
-- [Xota de Bazar](/pezas/maneos/bazar/)
+- [Maneo de Abelenda](pezas/abelenda.md)
+- [Agora que vou entrando](pezas/agoraque.md)
+- [Xota de Bazar](pezas/bazar.md)
+- [Maneo de Cabaleiros](pezas/cabaleiros.md)
+- [Maneo de Imende](pezas/imende.md)
+- [Rececinde](pezas/rececinde.md)
+- [Maneo de Silván](pezas/silvan.md)
 
