@@ -7,13 +7,13 @@ origen: "Seaia, Malpica de Bergantiños"
 # Muiñeira vella de Seaia
 
 María, miña María,<br>
-_____ tus claveles<br>
+échale aghua a tus claveles<br>
 Ya verás por la mañana<br>
 qué florecidos los tienes.
 
 > Ai la la ...
 
-Cantos van y cantos vienen<br>
+Cartas van y cartas vienen<br>
 mi vida por el correo<br>
 ¿para qué quiero las cartas<br>
 mi vida si no te veo?
