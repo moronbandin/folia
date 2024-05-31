@@ -10,9 +10,3 @@
 </div>
 
 <link rel="stylesheet" href="/assets/css/styles.css">
-
-<div id="map"></div>
-
-<link rel="stylesheet" href="/assets/css/styles.css">
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script src="/assets/js/scripts.js"></script>
