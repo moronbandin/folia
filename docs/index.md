@@ -1,4 +1,4 @@
-# Foliada Cheatsheet
+# Foliada Cheatsheet 1
 
 <div class="buttons">
     <a class="button" href="pezas/cantos/">Cantos</a>
